@@ -13,6 +13,6 @@ function App() {
     </div>
   )
 }
-// hellow
+// hello my new projects
 
 export default App
