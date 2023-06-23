@@ -17,8 +17,7 @@
 
 body {
   margin: 0;
-  display: flex;
-  min-width: 320px;
+  padding: 4px;
   min-height: 100vh;
 }
 
